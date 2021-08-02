@@ -46,3 +46,4 @@ testem.log
 Thumbs.db
 settings.json
 launch.json
+console_error.log
